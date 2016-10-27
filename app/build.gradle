@@ -28,5 +28,6 @@ dependencies {
     compile 'com.android.support:appcompat-v7:25.0.0'
     compile 'com.facebook.fresco:fresco:0.14.1'
 
+//    compile 'com.github.XuDaojie:FrescoZoomable:v0.1.0'
     compile project(':frescozoomable')
 }
